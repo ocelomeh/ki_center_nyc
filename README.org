@@ -1,0 +1,30 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:nil
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:t title:t toc:t todo:t |:t
+#+TITLE: NYC 気 research center
+#+AUTHOR: Andrew M Davis, PhD
+#+EMAIL: @reconmaster:matrix.org
+#+AUTHOR: Jonathan Zelaya
+#+EMAIL: @ocelomeh:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+FILETAGS: 気, ki, center, nyc
+Objective: 気 research center for NYC
+
+#+BEGIN_QUOTE
+The Art of Peace is medicine for a sick world. We want to cure the
+world of the sickness of violence, malcontent, and discord—this is the
+Way of Harmony. There is evil and disorder in the world because people
+have forgotten that all things emanate from one source. Return to that
+source and leave behind all self-centered thoughts, petty desires, and
+anger. Those who are possessed by nothing possess everything.
+
+お先生
+#+END_QUOTE
+* Introduction
+[[https://en.wikipedia.org/wiki/New_York_City][New York City]] is a hub of 気 flow in the [[https://github.com/reconmaster/ki_us/][USA]]. We'd like to establish a
+center of teaching and researching 気 technologies in NYC.
